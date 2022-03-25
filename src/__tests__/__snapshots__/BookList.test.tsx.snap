@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> BookList component +++ renders when one item 1`] = `
+<Fragment>
+  <article
+    className="card"
+  >
+    <div
+      className="card__content"
+    >
+      <h2>
+        Paul of Dune
+      </h2>
+      <span>
+        Brian HerbertKevin J. Anderson
+      </span>
+      <span>
+        2008
+      </span>
+      <p
+        className="card_link"
+      >
+        <Link
+          to="book/15"
+        >
+          Read more
+        </Link>
+      </p>
+    </div>
+  </article>
+</Fragment>
+`;
